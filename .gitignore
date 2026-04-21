@@ -1,0 +1,11 @@
+# Visual Studio metadata
+.vs/
+
+# Backup files
+*.bak
+
+# Compressed archives
+mazi.zip
+
+# Scratch/temp files
+saver.txt
