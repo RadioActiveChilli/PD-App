@@ -2,6 +2,8 @@
 
 A web-based tool that allows users to trace a spiral on a drawing canvas, then uses drawing metrics and a Naive Bayes classifier to predict the likelihood of Parkinson's Disease. Built as a final-year Computer Science project (COMP390).
 
+> **Note:** This is the original version of the PD App, created in May 2024. An updated V2 version is available at [RadioActiveChilli/PD-App-V2](https://github.com/RadioActiveChilli/PD-App-V2).
+
 > **Disclaimer:** This application is for research and testing purposes only. It is not a clinical diagnostic tool. Please consult a medical professional for any health concerns.
 
 ---
